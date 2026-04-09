@@ -1,1 +1,2 @@
 This is for the git training module.
+For the next commit, modified text.
